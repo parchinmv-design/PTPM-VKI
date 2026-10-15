@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zTcAvprJCQ=",
+  "success": true,
+  "projectFilePath": "\\\\iscsi\\profstud\\Parchinmv\\Documents\\Проект по умолчанию\\ProductApp\\ProductApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Parchinmv\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
